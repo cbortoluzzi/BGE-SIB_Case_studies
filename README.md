@@ -15,7 +15,9 @@ If you encounter issues or need support, either submit a request or contact chia
 
 # Authors 
 Chiara Bortoluzzi, Data Manager, Environmental Bioinformatics Group, SIB Swiss Institute of Bioinformatics, Switzerland
+
 Christian de Guttry, Project Manager, Environmental  Bioinformatics Group, SIB Swiss Institute of Bioinformatics, Switzerland
+
 Robert Waterhouse, Director, Environmental Bioinformatics Group, SIB Swiss Institute of Bioinformatics, Switzerland
 
 # Version History
